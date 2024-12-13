@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\herencia\\herencia\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\herencia\\herencia\\jefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\jefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\herencia\\herencia\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\herencia\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\herencia\\herencia\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\herencia\\herencia\\irecibirmercancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\irecibirmercancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Program.cs",
+              "RelativeDocumentMoniker": "Herencia\\Program.cs",
+              "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Program.cs",
+              "RelativeToolTip": "Herencia\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:09:56.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Empleado.cs",
+              "RelativeDocumentMoniker": "Herencia\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Empleado.cs",
+              "RelativeToolTip": "Herencia\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:47:19.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jefe.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Jefe.cs",
+              "RelativeDocumentMoniker": "Herencia\\Jefe.cs",
+              "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Jefe.cs",
+              "RelativeToolTip": "Herencia\\Jefe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:45:21.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coordinador.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Coordinador.cs",
+              "RelativeDocumentMoniker": "Herencia\\Coordinador.cs",
+              "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Coordinador.cs",
+              "RelativeToolTip": "Herencia\\Coordinador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:46:02.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auxiliar.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Auxiliar.cs",
+              "RelativeDocumentMoniker": "Herencia\\Auxiliar.cs",
+              "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Auxiliar.cs",
+              "RelativeToolTip": "Herencia\\Auxiliar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:46:41.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRecibirMercancia.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\IRecibirMercancia.cs",
+              "RelativeDocumentMoniker": "Herencia\\IRecibirMercancia.cs",
+              "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\IRecibirMercancia.cs",
+              "RelativeToolTip": "Herencia\\IRecibirMercancia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:50:40.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

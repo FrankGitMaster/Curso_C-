@@ -1,0 +1,4 @@
+﻿interface IRecibirMercancia
+    {
+    void Recibir();
+    }
