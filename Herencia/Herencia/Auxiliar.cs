@@ -2,23 +2,26 @@
 using System.Collections.Generic;
 using System;
 
-class Auxiliar : Empleado, IRecibirMercancia
+namespace Herencia
     {
-
-    private static List<Auxiliar> _listaAuxiliares = new List<Auxiliar>();
-    public Auxiliar(string nombre, double sueldo, string area) : base(nombre, sueldo, area)
+    class Auxiliar : Empleado, IRecibirMercancia
         {
-        _listaAuxiliares.Add(this);
-        }
 
-    public void Recibir()
-        {
-        Console.WriteLine($"El auxiliar {this.Nombre} recibió la mercancía, debe almacenarla.");
-        }
+        private static List<Auxiliar> _listaAuxiliares = new List<Auxiliar>();
+        public Auxiliar(string nombre, double sueldo, Area area) : base(nombre, sueldo, area)
+            {
+            _listaAuxiliares.Add(this);
+            }
 
-    public static List<Auxiliar> ListarAuxiliares()
-        {
-        return _listaAuxiliares;
-        }
+        public void Recibir()
+            {
+            Console.WriteLine($"El auxiliar {this.Nombre} recibió la mercancía, debe almacenarla.");
+            }
 
+        public static List<Auxiliar> ListarAuxiliares()
+            {
+            return _listaAuxiliares;
+            }
+
+        }
     }

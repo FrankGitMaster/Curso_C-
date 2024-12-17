@@ -1,21 +1,24 @@
 ﻿using Herencia;
 
-class Jefe : Empleado
+namespace Herencia
     {
-
-    public double Comision { get; }
-
-    public Jefe(string nombre, double sueldo, string area, double comision) : base(nombre, sueldo, area)
+    class Jefe : Empleado
         {
-        Comision = comision;
-        }
 
-    public override double Sueldo
-        {
-        get
+        public double Comision { get; }
+
+        public Jefe(string nombre, double sueldo, Area area, double comision) : base(nombre, sueldo, area)
             {
-            return base.Sueldo + Comision;
+            Comision = comision;
             }
-        }
 
+        public override double Sueldo
+            {
+            get
+                {
+                return base.Sueldo + Comision;
+                }
+            }
+
+        }
     }

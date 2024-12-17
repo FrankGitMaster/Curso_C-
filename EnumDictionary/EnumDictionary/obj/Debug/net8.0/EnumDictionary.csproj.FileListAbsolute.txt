@@ -1,0 +1,14 @@
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EnumDictionary.exe
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EnumDictionary.deps.json
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EnumDictionary.runtimeconfig.json
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EnumDictionary.dll
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EnumDictionary.pdb
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.AssemblyInfoInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.AssemblyInfo.cs
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.dll
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Debug\net8.0\refint\EnumDictionary.dll
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.pdb
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.genruntimeconfig.cache
+C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Debug\net8.0\ref\EnumDictionary.dll

@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\herencia\\herencia\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\herencia\\herencia\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\herencia\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\herencia\\herencia\\jefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\jefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\herencia\\herencia\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\herencia\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\herencia\\herencia\\irecibirmercancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\herencia\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\herencia\\jefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\jefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\herencia\\irecibirmercancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2262B16-B598-4E42-B67E-5E55058AE103}|Herencia\\Herencia.csproj|solutionrelative:herencia\\irecibirmercancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,26 +42,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Program.cs",
               "RelativeDocumentMoniker": "Herencia\\Program.cs",
               "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Program.cs",
               "RelativeToolTip": "Herencia\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T19:09:56.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T19:09:56.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Empleado.cs",
               "RelativeDocumentMoniker": "Herencia\\Empleado.cs",
               "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Empleado.cs",
               "RelativeToolTip": "Herencia\\Empleado.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T19:47:19.884Z",
               "EditorCaption": ""
@@ -74,36 +73,33 @@
               "RelativeDocumentMoniker": "Herencia\\Jefe.cs",
               "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Jefe.cs",
               "RelativeToolTip": "Herencia\\Jefe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T19:45:21.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T19:45:21.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Coordinador.cs",
               "DocumentMoniker": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Coordinador.cs",
               "RelativeDocumentMoniker": "Herencia\\Coordinador.cs",
               "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Coordinador.cs",
               "RelativeToolTip": "Herencia\\Coordinador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T19:46:02.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T19:46:02.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Auxiliar.cs",
               "DocumentMoniker": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Auxiliar.cs",
               "RelativeDocumentMoniker": "Herencia\\Auxiliar.cs",
               "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\Auxiliar.cs",
               "RelativeToolTip": "Herencia\\Auxiliar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T19:46:41.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T19:46:41.246Z"
             },
             {
               "$type": "Document",
@@ -113,10 +109,9 @@
               "RelativeDocumentMoniker": "Herencia\\IRecibirMercancia.cs",
               "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\Herencia\\Herencia\\IRecibirMercancia.cs",
               "RelativeToolTip": "Herencia\\IRecibirMercancia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T19:50:40.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T19:50:40.422Z"
             }
           ]
         },
@@ -259,6 +254,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

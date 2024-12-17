@@ -1,4 +1,8 @@
-﻿interface IRecibirMercancia
+﻿namespace Herencia
     {
-    void Recibir();
+
+    interface IRecibirMercancia
+        {
+        void Recibir();
+        }
     }

@@ -12,11 +12,11 @@ namespace Herencia
             {
 
 
-            Jefe j1 = new Jefe("Ivan Gonzalez", 7000, "recursos humanos", 1000);
-            Coordinador c1 = new Coordinador("Diego Medrano", 4500, "logistica", 500);
-            Auxiliar a1 = new Auxiliar("Pablo Cardenas", 1500, "logistica");
-            Auxiliar a2 = new Auxiliar("Ronald", 1500, "molinos");
-            Auxiliar a3 = new Auxiliar("Jorge Borda", 1800, "logistica");
+            Jefe j1 = new Jefe("Ivan Gonzalez", 7000, Area.recursos_humanos, 1000);
+            Coordinador c1 = new Coordinador("Diego Medrano", 4500, Area.logistica, 500);
+            Auxiliar a1 = new Auxiliar("Pablo Cardenas", 1500, Area.logistica);
+            Auxiliar a2 = new Auxiliar("Ronald", 1500, Area.molinos);
+            Auxiliar a3 = new Auxiliar("Jorge Borda", 1800, Area.logistica);
 
             Empleado.VerMiembrosLista(Empleado.ListarEmpleados());
 
