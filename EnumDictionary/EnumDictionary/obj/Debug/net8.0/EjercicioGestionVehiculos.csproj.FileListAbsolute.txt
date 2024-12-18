@@ -1,0 +1,15 @@
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EjercicioGestionVehiculos.exe
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EjercicioGestionVehiculos.deps.json
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EjercicioGestionVehiculos.runtimeconfig.json
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EjercicioGestionVehiculos.dll
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EjercicioGestionVehiculos.pdb
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EjercicioGestionVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EjercicioGestionVehiculos.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EjercicioGestionVehiculos.AssemblyInfo.cs
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EjercicioGestionVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EjercicioGestionVehiculos.sourcelink.json
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EjercicioGestionVehiculos.dll
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\refint\EjercicioGestionVehiculos.dll
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EjercicioGestionVehiculos.pdb
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EjercicioGestionVehiculos.genruntimeconfig.cache
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\ref\EjercicioGestionVehiculos.dll

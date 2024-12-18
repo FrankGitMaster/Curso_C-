@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EnumDictionary")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EjercicioGestionVehiculos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+501cba128055680efd1887ca8dd0c404747d5d25")]
-[assembly: System.Reflection.AssemblyProductAttribute("EnumDictionary")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EnumDictionary")]
+[assembly: System.Reflection.AssemblyProductAttribute("EjercicioGestionVehiculos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EjercicioGestionVehiculos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

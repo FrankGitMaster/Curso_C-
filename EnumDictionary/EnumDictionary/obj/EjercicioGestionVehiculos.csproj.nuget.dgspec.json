@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\frank\\source\\repos\\Curso_C#\\EnumDictionary\\EnumDictionary\\EnumDictionary.csproj": {}
+    "C:\\Users\\frank\\source\\repos\\Curso_C#\\EnumDictionary\\EnumDictionary\\EjercicioGestionVehiculos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\frank\\source\\repos\\Curso_C#\\EnumDictionary\\EnumDictionary\\EnumDictionary.csproj": {
+    "C:\\Users\\frank\\source\\repos\\Curso_C#\\EnumDictionary\\EnumDictionary\\EjercicioGestionVehiculos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frank\\source\\repos\\Curso_C#\\EnumDictionary\\EnumDictionary\\EnumDictionary.csproj",
-        "projectName": "EnumDictionary",
-        "projectPath": "C:\\Users\\frank\\source\\repos\\Curso_C#\\EnumDictionary\\EnumDictionary\\EnumDictionary.csproj",
+        "projectUniqueName": "C:\\Users\\frank\\source\\repos\\Curso_C#\\EnumDictionary\\EnumDictionary\\EjercicioGestionVehiculos.csproj",
+        "projectName": "EjercicioGestionVehiculos",
+        "projectPath": "C:\\Users\\frank\\source\\repos\\Curso_C#\\EnumDictionary\\EnumDictionary\\EjercicioGestionVehiculos.csproj",
         "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\frank\\source\\repos\\Curso_C#\\EnumDictionary\\EnumDictionary\\obj\\",
         "projectStyle": "PackageReference",

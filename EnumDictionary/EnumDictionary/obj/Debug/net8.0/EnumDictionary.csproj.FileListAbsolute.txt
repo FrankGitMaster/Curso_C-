@@ -12,3 +12,18 @@ C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Deb
 C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.pdb
 C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.genruntimeconfig.cache
 C:\Users\Soporte Aplicaciones\source\repos\EnumDictionary\EnumDictionary\obj\Debug\net8.0\ref\EnumDictionary.dll
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EnumDictionary.exe
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EnumDictionary.deps.json
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EnumDictionary.runtimeconfig.json
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EnumDictionary.dll
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\bin\Debug\net8.0\EnumDictionary.pdb
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.AssemblyInfo.cs
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.sourcelink.json
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.dll
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\refint\EnumDictionary.dll
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.pdb
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\EnumDictionary.genruntimeconfig.cache
+C:\Users\frank\source\repos\Curso_C#\EnumDictionary\EnumDictionary\obj\Debug\net8.0\ref\EnumDictionary.dll

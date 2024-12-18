@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumDictionary", "EnumDictionary\EnumDictionary.csproj", "{69CFB1D6-C9F8-4B9B-B5FA-B7FBA5760D89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioGestionVehiculos", "EnumDictionary\EjercicioGestionVehiculos.csproj", "{69CFB1D6-C9F8-4B9B-B5FA-B7FBA5760D89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8E8E1C4-0F8B-413B-B84D-F438A4DF8C6E}
 	EndGlobalSection
 EndGlobal
