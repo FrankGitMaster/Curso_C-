@@ -1,0 +1,15 @@
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\bin\Debug\net8.0\CLaseAbstractaEmpleado.exe
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\bin\Debug\net8.0\CLaseAbstractaEmpleado.deps.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\bin\Debug\net8.0\CLaseAbstractaEmpleado.runtimeconfig.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\bin\Debug\net8.0\CLaseAbstractaEmpleado.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\bin\Debug\net8.0\CLaseAbstractaEmpleado.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\obj\Debug\net8.0\CLaseAbstractaEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\obj\Debug\net8.0\CLaseAbstractaEmpleado.AssemblyInfoInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\obj\Debug\net8.0\CLaseAbstractaEmpleado.AssemblyInfo.cs
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\obj\Debug\net8.0\CLaseAbstractaEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\obj\Debug\net8.0\CLaseAbstractaEmpleado.sourcelink.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\obj\Debug\net8.0\CLaseAbstractaEmpleado.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\obj\Debug\net8.0\refint\CLaseAbstractaEmpleado.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\obj\Debug\net8.0\CLaseAbstractaEmpleado.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\obj\Debug\net8.0\CLaseAbstractaEmpleado.genruntimeconfig.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\CLaseAbstractaEmpleado\CLaseAbstractaEmpleado\obj\Debug\net8.0\ref\CLaseAbstractaEmpleado.dll

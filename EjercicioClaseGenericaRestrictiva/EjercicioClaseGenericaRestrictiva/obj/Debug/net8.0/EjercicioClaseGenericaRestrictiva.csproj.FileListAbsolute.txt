@@ -1,0 +1,15 @@
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\bin\Debug\net8.0\EjercicioClaseGenericaRestrictiva.exe
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\bin\Debug\net8.0\EjercicioClaseGenericaRestrictiva.deps.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\bin\Debug\net8.0\EjercicioClaseGenericaRestrictiva.runtimeconfig.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\bin\Debug\net8.0\EjercicioClaseGenericaRestrictiva.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\bin\Debug\net8.0\EjercicioClaseGenericaRestrictiva.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\obj\Debug\net8.0\EjercicioClaseGenericaRestrictiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\obj\Debug\net8.0\EjercicioClaseGenericaRestrictiva.AssemblyInfoInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\obj\Debug\net8.0\EjercicioClaseGenericaRestrictiva.AssemblyInfo.cs
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\obj\Debug\net8.0\EjercicioClaseGenericaRestrictiva.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\obj\Debug\net8.0\EjercicioClaseGenericaRestrictiva.sourcelink.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\obj\Debug\net8.0\EjercicioClaseGenericaRestrictiva.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\obj\Debug\net8.0\refint\EjercicioClaseGenericaRestrictiva.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\obj\Debug\net8.0\EjercicioClaseGenericaRestrictiva.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\obj\Debug\net8.0\EjercicioClaseGenericaRestrictiva.genruntimeconfig.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioClaseGenericaRestrictiva\EjercicioClaseGenericaRestrictiva\obj\Debug\net8.0\ref\EjercicioClaseGenericaRestrictiva.dll

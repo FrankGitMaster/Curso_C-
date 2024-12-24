@@ -1,0 +1,15 @@
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\bin\Debug\net8.0\InterfacesSistemaPagos.exe
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\bin\Debug\net8.0\InterfacesSistemaPagos.deps.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\bin\Debug\net8.0\InterfacesSistemaPagos.runtimeconfig.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\bin\Debug\net8.0\InterfacesSistemaPagos.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\bin\Debug\net8.0\InterfacesSistemaPagos.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\obj\Debug\net8.0\InterfacesSistemaPagos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\obj\Debug\net8.0\InterfacesSistemaPagos.AssemblyInfoInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\obj\Debug\net8.0\InterfacesSistemaPagos.AssemblyInfo.cs
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\obj\Debug\net8.0\InterfacesSistemaPagos.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\obj\Debug\net8.0\InterfacesSistemaPagos.sourcelink.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\obj\Debug\net8.0\InterfacesSistemaPagos.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\obj\Debug\net8.0\refint\InterfacesSistemaPagos.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\obj\Debug\net8.0\InterfacesSistemaPagos.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\obj\Debug\net8.0\InterfacesSistemaPagos.genruntimeconfig.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\InterfacesSistemaPagos\InterfacesSistemaPagos\obj\Debug\net8.0\ref\InterfacesSistemaPagos.dll

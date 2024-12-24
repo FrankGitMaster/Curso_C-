@@ -1,0 +1,14 @@
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\bin\Debug\net8.0\EjercicioClaseGenerica.exe
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\bin\Debug\net8.0\EjercicioClaseGenerica.deps.json
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\bin\Debug\net8.0\EjercicioClaseGenerica.runtimeconfig.json
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\bin\Debug\net8.0\EjercicioClaseGenerica.dll
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\bin\Debug\net8.0\EjercicioClaseGenerica.pdb
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\obj\Debug\net8.0\EjercicioClaseGenerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\obj\Debug\net8.0\EjercicioClaseGenerica.AssemblyInfoInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\obj\Debug\net8.0\EjercicioClaseGenerica.AssemblyInfo.cs
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\obj\Debug\net8.0\EjercicioClaseGenerica.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\obj\Debug\net8.0\EjercicioClaseGenerica.dll
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\obj\Debug\net8.0\refint\EjercicioClaseGenerica.dll
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\obj\Debug\net8.0\EjercicioClaseGenerica.pdb
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\obj\Debug\net8.0\EjercicioClaseGenerica.genruntimeconfig.cache
+C:\Users\Soporte Aplicaciones\source\repos\EjercicioClaseGenerica\EjercicioClaseGenerica\obj\Debug\net8.0\ref\EjercicioClaseGenerica.dll
