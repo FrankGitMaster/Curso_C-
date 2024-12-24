@@ -1,0 +1,15 @@
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\bin\Debug\net8.0\EjercicioRepositorioGenerico.exe
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\bin\Debug\net8.0\EjercicioRepositorioGenerico.deps.json
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\bin\Debug\net8.0\EjercicioRepositorioGenerico.runtimeconfig.json
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\bin\Debug\net8.0\EjercicioRepositorioGenerico.dll
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\bin\Debug\net8.0\EjercicioRepositorioGenerico.pdb
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\obj\Debug\net8.0\EjercicioRepositorioGenerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\obj\Debug\net8.0\EjercicioRepositorioGenerico.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\obj\Debug\net8.0\EjercicioRepositorioGenerico.AssemblyInfo.cs
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\obj\Debug\net8.0\EjercicioRepositorioGenerico.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\obj\Debug\net8.0\EjercicioRepositorioGenerico.sourcelink.json
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\obj\Debug\net8.0\EjercicioRepositorioGenerico.dll
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\obj\Debug\net8.0\refint\EjercicioRepositorioGenerico.dll
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\obj\Debug\net8.0\EjercicioRepositorioGenerico.pdb
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\obj\Debug\net8.0\EjercicioRepositorioGenerico.genruntimeconfig.cache
+C:\Users\frank\source\repos\Curso_C#\EjercicioRepositorioGenerico\EjercicioRepositorioGenerico\obj\Debug\net8.0\ref\EjercicioRepositorioGenerico.dll
