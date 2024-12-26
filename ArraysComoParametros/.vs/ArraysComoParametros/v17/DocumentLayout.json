@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\frank\\source\\repos\\Curso_C#\\ArraysComoParametros\\",
+  "WorkspaceRootPath": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\ArraysComoParametros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF8FC05D-2704-41C6-A2A5-616E083DB6EE}|ArraysComoParametros\\ArraysComoParametros.csproj|c:\\users\\frank\\source\\repos\\curso_c#\\arrayscomoparametros\\arrayscomoparametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF8FC05D-2704-41C6-A2A5-616E083DB6EE}|ArraysComoParametros\\ArraysComoParametros.csproj|c:\\users\\soporte aplicaciones\\source\\repos\\curso_c#\\arrayscomoparametros\\arrayscomoparametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF8FC05D-2704-41C6-A2A5-616E083DB6EE}|ArraysComoParametros\\ArraysComoParametros.csproj|solutionrelative:arrayscomoparametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,23 +18,23 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\Curso_C#\\ArraysComoParametros\\ArraysComoParametros\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\ArraysComoParametros\\ArraysComoParametros\\Program.cs",
               "RelativeDocumentMoniker": "ArraysComoParametros\\Program.cs",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\Curso_C#\\ArraysComoParametros\\ArraysComoParametros\\Program.cs",
+              "ToolTip": "C:\\Users\\Soporte Aplicaciones\\source\\repos\\Curso_C#\\ArraysComoParametros\\ArraysComoParametros\\Program.cs",
               "RelativeToolTip": "ArraysComoParametros\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T19:07:20.998Z",
+              "WhenOpened": "2024-12-26T13:44:21.019Z",
               "EditorCaption": ""
             }
           ]
@@ -178,6 +178,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

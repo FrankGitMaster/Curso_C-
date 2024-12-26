@@ -1,0 +1,15 @@
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\bin\Debug\net8.0\EjercicioLinkedList.exe
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\bin\Debug\net8.0\EjercicioLinkedList.deps.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\bin\Debug\net8.0\EjercicioLinkedList.runtimeconfig.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\bin\Debug\net8.0\EjercicioLinkedList.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\bin\Debug\net8.0\EjercicioLinkedList.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\obj\Debug\net8.0\EjercicioLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\obj\Debug\net8.0\EjercicioLinkedList.AssemblyInfoInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\obj\Debug\net8.0\EjercicioLinkedList.AssemblyInfo.cs
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\obj\Debug\net8.0\EjercicioLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\obj\Debug\net8.0\EjercicioLinkedList.sourcelink.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\obj\Debug\net8.0\EjercicioLinkedList.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\obj\Debug\net8.0\refint\EjercicioLinkedList.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\obj\Debug\net8.0\EjercicioLinkedList.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\obj\Debug\net8.0\EjercicioLinkedList.genruntimeconfig.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioLinkedList\EjercicioLinkedList\obj\Debug\net8.0\ref\EjercicioLinkedList.dll
