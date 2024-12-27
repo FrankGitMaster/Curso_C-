@@ -1,0 +1,15 @@
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\bin\Debug\net8.0\EjercicioListaTareasLinkedList.exe
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\bin\Debug\net8.0\EjercicioListaTareasLinkedList.deps.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\bin\Debug\net8.0\EjercicioListaTareasLinkedList.runtimeconfig.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\bin\Debug\net8.0\EjercicioListaTareasLinkedList.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\bin\Debug\net8.0\EjercicioListaTareasLinkedList.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\obj\Debug\net8.0\EjercicioListaTareasLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\obj\Debug\net8.0\EjercicioListaTareasLinkedList.AssemblyInfoInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\obj\Debug\net8.0\EjercicioListaTareasLinkedList.AssemblyInfo.cs
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\obj\Debug\net8.0\EjercicioListaTareasLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\obj\Debug\net8.0\EjercicioListaTareasLinkedList.sourcelink.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\obj\Debug\net8.0\EjercicioListaTareasLinkedList.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\obj\Debug\net8.0\refint\EjercicioListaTareasLinkedList.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\obj\Debug\net8.0\EjercicioListaTareasLinkedList.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\obj\Debug\net8.0\EjercicioListaTareasLinkedList.genruntimeconfig.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioListaTareasLinkedList\EjercicioListaTareasLinkedList\obj\Debug\net8.0\ref\EjercicioListaTareasLinkedList.dll
