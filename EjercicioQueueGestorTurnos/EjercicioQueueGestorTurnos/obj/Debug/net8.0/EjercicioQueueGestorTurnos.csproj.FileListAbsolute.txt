@@ -1,0 +1,15 @@
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\bin\Debug\net8.0\EjercicioQueueGestorTurnos.exe
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\bin\Debug\net8.0\EjercicioQueueGestorTurnos.deps.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\bin\Debug\net8.0\EjercicioQueueGestorTurnos.runtimeconfig.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\bin\Debug\net8.0\EjercicioQueueGestorTurnos.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\bin\Debug\net8.0\EjercicioQueueGestorTurnos.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\obj\Debug\net8.0\EjercicioQueueGestorTurnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\obj\Debug\net8.0\EjercicioQueueGestorTurnos.AssemblyInfoInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\obj\Debug\net8.0\EjercicioQueueGestorTurnos.AssemblyInfo.cs
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\obj\Debug\net8.0\EjercicioQueueGestorTurnos.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\obj\Debug\net8.0\EjercicioQueueGestorTurnos.sourcelink.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\obj\Debug\net8.0\EjercicioQueueGestorTurnos.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\obj\Debug\net8.0\refint\EjercicioQueueGestorTurnos.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\obj\Debug\net8.0\EjercicioQueueGestorTurnos.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\obj\Debug\net8.0\EjercicioQueueGestorTurnos.genruntimeconfig.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioQueueGestorTurnos\EjercicioQueueGestorTurnos\obj\Debug\net8.0\ref\EjercicioQueueGestorTurnos.dll
