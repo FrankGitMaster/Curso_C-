@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frank\\source\\repos\\EjercicioQueueGestorTurnos\\EjercicioQueueGestorTurnos\\EjercicioQueueGestorTurnos.csproj",
-      "projectName": "EjercicioQueueGestorTurnos",
-      "projectPath": "C:\\Users\\frank\\source\\repos\\EjercicioQueueGestorTurnos\\EjercicioQueueGestorTurnos\\EjercicioQueueGestorTurnos.csproj",
+      "projectUniqueName": "C:\\Users\\frank\\source\\repos\\Queue\\Queue\\Queue.csproj",
+      "projectName": "Queue",
+      "projectPath": "C:\\Users\\frank\\source\\repos\\Queue\\Queue\\Queue.csproj",
       "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frank\\source\\repos\\EjercicioQueueGestorTurnos\\EjercicioQueueGestorTurnos\\obj\\",
+      "outputPath": "C:\\Users\\frank\\source\\repos\\Queue\\Queue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
