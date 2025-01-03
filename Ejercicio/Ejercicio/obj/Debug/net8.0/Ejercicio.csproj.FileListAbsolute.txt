@@ -1,0 +1,15 @@
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\bin\Debug\net8.0\Ejercicio.exe
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\bin\Debug\net8.0\Ejercicio.deps.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\bin\Debug\net8.0\Ejercicio.runtimeconfig.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\bin\Debug\net8.0\Ejercicio.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\bin\Debug\net8.0\Ejercicio.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\obj\Debug\net8.0\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\obj\Debug\net8.0\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\obj\Debug\net8.0\Ejercicio.AssemblyInfo.cs
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\obj\Debug\net8.0\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\obj\Debug\net8.0\Ejercicio.sourcelink.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\obj\Debug\net8.0\Ejercicio.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\obj\Debug\net8.0\refint\Ejercicio.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\obj\Debug\net8.0\Ejercicio.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\obj\Debug\net8.0\Ejercicio.genruntimeconfig.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\Ejercicio\Ejercicio\obj\Debug\net8.0\ref\Ejercicio.dll

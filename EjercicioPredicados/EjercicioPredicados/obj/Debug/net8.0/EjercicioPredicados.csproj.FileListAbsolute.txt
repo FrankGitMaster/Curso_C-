@@ -1,0 +1,15 @@
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\bin\Debug\net8.0\EjercicioPredicados.exe
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\bin\Debug\net8.0\EjercicioPredicados.deps.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\bin\Debug\net8.0\EjercicioPredicados.runtimeconfig.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\bin\Debug\net8.0\EjercicioPredicados.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\bin\Debug\net8.0\EjercicioPredicados.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\obj\Debug\net8.0\EjercicioPredicados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\obj\Debug\net8.0\EjercicioPredicados.AssemblyInfoInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\obj\Debug\net8.0\EjercicioPredicados.AssemblyInfo.cs
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\obj\Debug\net8.0\EjercicioPredicados.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\obj\Debug\net8.0\EjercicioPredicados.sourcelink.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\obj\Debug\net8.0\EjercicioPredicados.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\obj\Debug\net8.0\refint\EjercicioPredicados.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\obj\Debug\net8.0\EjercicioPredicados.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\obj\Debug\net8.0\EjercicioPredicados.genruntimeconfig.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\EjercicioPredicados\EjercicioPredicados\obj\Debug\net8.0\ref\EjercicioPredicados.dll
