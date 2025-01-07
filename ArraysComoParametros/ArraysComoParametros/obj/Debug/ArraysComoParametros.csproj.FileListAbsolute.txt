@@ -5,3 +5,10 @@ C:\Users\Soporte Aplicaciones\source\repos\ArraysComoParametros\ArraysComoParame
 C:\Users\Soporte Aplicaciones\source\repos\ArraysComoParametros\ArraysComoParametros\obj\Debug\ArraysComoParametros.csproj.CoreCompileInputs.cache
 C:\Users\Soporte Aplicaciones\source\repos\ArraysComoParametros\ArraysComoParametros\obj\Debug\ArraysComoParametros.exe
 C:\Users\Soporte Aplicaciones\source\repos\ArraysComoParametros\ArraysComoParametros\obj\Debug\ArraysComoParametros.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ArraysComoParametros\ArraysComoParametros\bin\Debug\ArraysComoParametros.exe.config
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ArraysComoParametros\ArraysComoParametros\bin\Debug\ArraysComoParametros.exe
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ArraysComoParametros\ArraysComoParametros\bin\Debug\ArraysComoParametros.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ArraysComoParametros\ArraysComoParametros\obj\Debug\ArraysComoParametros.csproj.AssemblyReference.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ArraysComoParametros\ArraysComoParametros\obj\Debug\ArraysComoParametros.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ArraysComoParametros\ArraysComoParametros\obj\Debug\ArraysComoParametros.exe
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ArraysComoParametros\ArraysComoParametros\obj\Debug\ArraysComoParametros.pdb

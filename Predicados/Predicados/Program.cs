@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace Predicados
+﻿namespace Predicados
     {
 
     class program
@@ -23,7 +21,7 @@ namespace Predicados
 
             Console.WriteLine(esPar(101));
             }
-    }
+        }
 
     class Matematicas
         {
