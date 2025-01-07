@@ -1,0 +1,14 @@
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\bin\Debug\net8.0\EjercicioDelegadosListaProductos.exe
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\bin\Debug\net8.0\EjercicioDelegadosListaProductos.deps.json
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\bin\Debug\net8.0\EjercicioDelegadosListaProductos.runtimeconfig.json
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\bin\Debug\net8.0\EjercicioDelegadosListaProductos.dll
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\bin\Debug\net8.0\EjercicioDelegadosListaProductos.pdb
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\obj\Debug\net8.0\EjercicioDelegadosListaProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\obj\Debug\net8.0\EjercicioDelegadosListaProductos.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\obj\Debug\net8.0\EjercicioDelegadosListaProductos.AssemblyInfo.cs
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\obj\Debug\net8.0\EjercicioDelegadosListaProductos.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\obj\Debug\net8.0\EjercicioDelegadosListaProductos.dll
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\obj\Debug\net8.0\refint\EjercicioDelegadosListaProductos.dll
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\obj\Debug\net8.0\EjercicioDelegadosListaProductos.pdb
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\obj\Debug\net8.0\EjercicioDelegadosListaProductos.genruntimeconfig.cache
+C:\Users\frank\source\repos\EjercicioDelegadosListaProductos\EjercicioDelegadosListaProductos\obj\Debug\net8.0\ref\EjercicioDelegadosListaProductos.dll

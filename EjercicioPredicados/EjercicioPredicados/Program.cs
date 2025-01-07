@@ -26,6 +26,7 @@
 
             // Con expresión lambda
             Predicate<Producto> buscarMayorA = producto => producto.Precio > 5000;
+            //List<Producto> listaProductosMayores = Producto.GetListaProductos().FindAll(buscarMayorA);
             List<Producto> listaProductosMayores = Producto.GetListaProductos().FindAll(buscarMayorA);
 
             Console.WriteLine("Productos con precio mayor a 5000:");

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frank\\source\\repos\\Curso_C#\\EnumDictionary\\EnumDictionary\\EjercicioGestionVehiculos.csproj",
+      "projectUniqueName": "C:\\Users\\frank\\source\\repos\\Curso_C#\\EjercicioGestionVehiculos\\EnumDictionary\\EjercicioGestionVehiculos.csproj",
       "projectName": "EjercicioGestionVehiculos",
-      "projectPath": "C:\\Users\\frank\\source\\repos\\Curso_C#\\EnumDictionary\\EnumDictionary\\EjercicioGestionVehiculos.csproj",
+      "projectPath": "C:\\Users\\frank\\source\\repos\\Curso_C#\\EjercicioGestionVehiculos\\EnumDictionary\\EjercicioGestionVehiculos.csproj",
       "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frank\\source\\repos\\Curso_C#\\EnumDictionary\\EnumDictionary\\obj\\",
+      "outputPath": "C:\\Users\\frank\\source\\repos\\Curso_C#\\EjercicioGestionVehiculos\\EnumDictionary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",

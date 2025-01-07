@@ -1,0 +1,14 @@
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\bin\Debug\net8.0\EjercicioFunc.exe
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\bin\Debug\net8.0\EjercicioFunc.deps.json
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\bin\Debug\net8.0\EjercicioFunc.runtimeconfig.json
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\bin\Debug\net8.0\EjercicioFunc.dll
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\bin\Debug\net8.0\EjercicioFunc.pdb
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\obj\Debug\net8.0\EjercicioFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\obj\Debug\net8.0\EjercicioFunc.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\obj\Debug\net8.0\EjercicioFunc.AssemblyInfo.cs
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\obj\Debug\net8.0\EjercicioFunc.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\obj\Debug\net8.0\EjercicioFunc.dll
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\obj\Debug\net8.0\refint\EjercicioFunc.dll
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\obj\Debug\net8.0\EjercicioFunc.pdb
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\obj\Debug\net8.0\EjercicioFunc.genruntimeconfig.cache
+C:\Users\frank\source\repos\EjercicioFunc\EjercicioFunc\obj\Debug\net8.0\ref\EjercicioFunc.dll
