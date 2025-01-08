@@ -4,11 +4,9 @@
     {
 
         public string Titulo { get; }
-        public string Descripcion { get; }
-        public Tarea(string titulo, string descripcion)
+        public Tarea(string titulo)
         {
             Titulo = titulo;
-            Descripcion = descripcion;
         }
 
         public abstract string VerDetallesTarea();
