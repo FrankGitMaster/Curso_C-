@@ -1,64 +1,76 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Linq;
 
 namespace ProyectoGestorDeTareas
-{
-    class GestorTareas
     {
-
-        private static List<TareaPendiente> _listaTareasPendientes = new List<TareaPendiente>();
-        private static Dictionary<int, TareaRapida> _listaTareasRapidas = new Dictionary<int, TareaRapida>();
-        private static Queue<TareaUrgente> _listaTareasUrgentes = new Queue<TareaUrgente>();
-
-        public static string AgregarTarea<T>(Object collection, T tarea)
+    class GestorTareas
         {
-            if (collection is List<T> lista)
+
+        // Implementa un Func que recibe como primer parametro un IEnumerable<T>
+        // IEnumerable<T> es la interfaz implementada directamente por List<T> y Queue<T>
+        public static string GestionarTarea<T>(Func<IEnumerable<T>, T, string> funcTarea, IEnumerable<T> collection, T tarea)
             {
-                lista.Add(tarea);
+            return funcTarea(collection, tarea);
             }
-            else if (collection is Dictionary<int, T> diccionario)
+
+        // Sobrecarga
+        // Implementa un Func que recibe como primer parametro un IEnumerable<KeyValuePair<int, T>>
+        // IEnumerable<KeyValuePair<int, T>> es la interfaz implementada directamente por Dictionary<TKey, TValue>
+        public static string GestionarTarea<T>(Func<IEnumerable<KeyValuePair<int, T>>, T, string> funcTarea, IEnumerable<KeyValuePair<int, T>> collection, T tarea)
             {
-                if (tarea is TareaRapida tareaRapida)
+            return funcTarea(collection, tarea);
+            }
+
+        // Metodo para agregar tareas a colecciones de tipo List<T> y Queue<T>
+        // collection es IEnumerable<T> porque esta interfaz es implementada de manera directa por List<T> y Queue<T>
+        public static string AgregarTarea<T>(IEnumerable<T> collection, T tarea)
+            {
+            string resultado = "";
+            try
                 {
-                    diccionario.Add(tareaRapida.Id, tarea);
+                if (collection is List<T> lista) lista.Add(tarea);
+                else if (collection is Queue<T> cola) cola.Enqueue(tarea);
+                resultado = "(i) Tarea agregada\n";
                 }
+            catch (Exception ex)
+                {
+                resultado = "(x) Error al agregar tarea: " + ex.Message + Environment.NewLine;
+                }
+            return resultado;
             }
-            else if (collection is Queue<T> cola)
+
+        // Sobrecarga
+        // Metodo para agregar tareas a colecciones de tipo Dictionary<TKey, TValue>
+        // collection es IEnumerable<KeyValuePair<Tkey, TValue>> porque esta interfaz es implementada de manera directa por Dictionary<TKey, TValue>
+        public static string AgregarTarea<T>(IEnumerable<KeyValuePair<int, T>> collection, T tarea)
             {
-                cola.Enqueue(tarea);
+            string resultado = "";
+            try
+                {
+                if (collection is Dictionary<int, T> diccionario && tarea is TareaRapida tareaRapida) diccionario.Add(tareaRapida.Id, tarea);
+                resultado = "(i) Tarea agregada\n";
+                }
+            catch (Exception ex)
+                {
+                resultado = "(x) Error al agregar tarea: " + ex.Message + Environment.NewLine;
+                }
+            return resultado;
             }
-            if (collection is List<T> || collection is Dictionary<int, T> || collection is Queue<T>) return "(i) Nueva tarea creada";
-            else return "(!) Error al crear la tarea";
-        }
 
-        public static void VerTareas<T>(T collection)
-        {
-            if (collection is List<T> || collection is Dictionary<int, T> || collection is Queue<T>)
+        // Metodo para retornar las tareas almacenadas en las colecciones.
+        // IEnumerable<T> es implementada por List<T>, Dictionary<TKey, TValue>.Values y Queue<T>
+        // Cuando collection es un Dictionary, el parametro recibido debe ser Dictionary<TKey, TValue>.Values para obtener una collecion de los Values del diccionario
+        public static string VerTareas<T>(IEnumerable<T> collection)
             {
-                
+            string resultado = "";
+            foreach (var item in collection)
+                {
+                if (item is Tarea tarea)
+                    {
+                    resultado += tarea.VerDetallesTarea() + Environment.NewLine;
+                    }
+                }
+            return resultado;
             }
-        }
-
-        public static void Main(string[] args)
-        {
-            TareaPendiente tareaPendiente_1 = new TareaPendiente("Tarea pendiente 1", "Descripcion", ECategoria.ESTUDIO, EPrioridad.ALTA);
-            TareaRapida tareaRapida_1 = new TareaRapida("Tarea rapida 1");
-            TareaRapida tareaRapida_2 = new TareaRapida("Tarea rapida 2");
-            TareaUrgente tareaUrgente_1 = new TareaUrgente("Tarea urgente 1", new DateTime(2025, 01, 30, 17, 35, 00));
-
-            Console.WriteLine(AgregarTarea(_listaTareasPendientes, tareaPendiente_1));
-            Console.WriteLine(AgregarTarea(_listaTareasRapidas, tareaRapida_1));
-            Console.WriteLine(AgregarTarea(_listaTareasRapidas, tareaRapida_2));
-            Console.WriteLine(AgregarTarea(_listaTareasUrgentes, tareaUrgente_1));
-
-
-            _listaTareasPendientes.ForEach(tarea => Console.WriteLine(tarea.VerDetallesTarea()));
-
-            _listaTareasRapidas.Values.ToList().ForEach(tarea => Console.WriteLine(tarea.VerDetallesTarea()));
-
-            _listaTareasUrgentes.ToList().ForEach(tarea => Console.WriteLine(tarea.VerDetallesTarea()));
         }
     }
-}

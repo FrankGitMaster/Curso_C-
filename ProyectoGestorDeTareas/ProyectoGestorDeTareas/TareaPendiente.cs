@@ -15,6 +15,6 @@
             Prioridad = prioridad;
         }
 
-        public override string VerDetallesTarea() => $"DETALLES DE LA TAREA PENDIENTE:\n- Título: {Titulo}\n- Descripción: {Descripcion}\n- Categoría: {Categoria}\n- Prioridad: {Prioridad}\n";
+        public override string VerDetallesTarea() => $"- Título: {Titulo}\n- Descripción: {Descripcion}\n- Categoría: {Categoria}\n- Prioridad: {Prioridad}\n";
     }
 }

@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Diagnostics.Metrics;
 
 namespace ProyectoGestorDeTareas
 {
@@ -13,6 +12,6 @@ namespace ProyectoGestorDeTareas
             FechaHoraVencimiento = fechaHoraVencimiento;
         }
 
-        public override string VerDetallesTarea() => $"DETALLES DE LA TAREA URGENTE:\n- Título: {Titulo}\n- Fecha vencimiento: {FechaHoraVencimiento.ToString("dddd dd 'de' MMMM 'de' yyyy")}\n- Hora vencimiento: {FechaHoraVencimiento.ToString("hh:mm tt")}";
+        public override string VerDetallesTarea() => $"- Título: {Titulo}\n- Fecha vencimiento: {FechaHoraVencimiento.ToString("dddd dd 'de' MMMM 'de' yyyy")}\n- Hora vencimiento: {FechaHoraVencimiento.ToString("hh:mm tt")}\n";
     }
 }

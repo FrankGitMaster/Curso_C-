@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace ProyectoGestorDeTareas
+﻿namespace ProyectoGestorDeTareas
     {
     class TareaRapida : Tarea
         {
@@ -13,6 +11,6 @@ namespace ProyectoGestorDeTareas
             Id = Counter;
             }
 
-        public override string VerDetallesTarea() => $"DETALLES DE LA TAREA RAPIDA:\n- Id: {Id}\n- Título: {Titulo}\n";
+        public override string VerDetallesTarea() => $"- Id: {Id}\n- Título: {Titulo}\n";
         }
     }
