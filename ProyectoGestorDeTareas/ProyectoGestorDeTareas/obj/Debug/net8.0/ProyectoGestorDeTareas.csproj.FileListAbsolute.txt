@@ -13,3 +13,18 @@ C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ProyectoGestorDeTareas\Proye
 C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\ProyectoGestorDeTareas.pdb
 C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\ProyectoGestorDeTareas.genruntimeconfig.cache
 C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\ref\ProyectoGestorDeTareas.dll
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\bin\Debug\net8.0\ProyectoGestorDeTareas.exe
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\bin\Debug\net8.0\ProyectoGestorDeTareas.deps.json
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\bin\Debug\net8.0\ProyectoGestorDeTareas.runtimeconfig.json
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\bin\Debug\net8.0\ProyectoGestorDeTareas.dll
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\bin\Debug\net8.0\ProyectoGestorDeTareas.pdb
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\ProyectoGestorDeTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\ProyectoGestorDeTareas.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\ProyectoGestorDeTareas.AssemblyInfo.cs
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\ProyectoGestorDeTareas.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\ProyectoGestorDeTareas.sourcelink.json
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\ProyectoGestorDeTareas.dll
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\refint\ProyectoGestorDeTareas.dll
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\ProyectoGestorDeTareas.pdb
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\ProyectoGestorDeTareas.genruntimeconfig.cache
+C:\Users\frank\source\repos\Curso_C-\ProyectoGestorDeTareas\ProyectoGestorDeTareas\obj\Debug\net8.0\ref\ProyectoGestorDeTareas.dll

@@ -6,7 +6,7 @@ namespace ProyectoGestorDeTareas
         {
 
         public static int Counter { get; private set; }
-        public int Id { get; private set; }
+        public int Id { get; }
         public TareaRapida(string titulo) : base(titulo)
             {
             Counter++;

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoGestorDeTareas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8fe90e7f179812c7ad4fcc635eb0726c338aea0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dda3f6950356b0de301e3b63a521842bdc2be99")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoGestorDeTareas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoGestorDeTareas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
