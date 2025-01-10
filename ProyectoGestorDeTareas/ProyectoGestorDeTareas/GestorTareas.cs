@@ -7,12 +7,15 @@ namespace ProyectoGestorDeTareas
     class GestorTareas
     {
 
-        private static string msjInfo = "(i) ";
-        private static string msjError = "(x) ";
-        private static string msjInfoTareaAgregada = msjInfo + "Tarea agregada";
-        private static string msjErrorTareaAgregada = "Error al agregar tarea: ";
-        private static string msjInfoTareaEliminada = msjInfo + "Tarea eliminada";
-        private static string msjErrorTareaEliminada = "Error al eliminar tarea: ";
+        private static List<TareaPendiente> _listaTareasPendientes = new List<TareaPendiente>();
+        private static Dictionary<int, TareaRapida> _listaTareasRapidas = new Dictionary<int, TareaRapida>();
+        private static Queue<TareaUrgente> _listaTareasUrgentes = new Queue<TareaUrgente>();
+        const string msjInfo = "(i) ";
+        const string msjError = "(x) ";
+        const string msjInfoTareaAgregada = msjInfo + "Tarea agregada";
+        const string msjErrorTareaAgregada = msjError + "Error al agregar tarea: ";
+        const string msjInfoTareaEliminada = msjInfo + "Tarea eliminada";
+        const string msjErrorTareaEliminada = msjError + "Error al eliminar tarea: ";
         private static string resultado = "";
 
         // Metodo que implementa un Func para apuntar a los metodos AgregarTarea(), 
@@ -58,7 +61,7 @@ namespace ProyectoGestorDeTareas
 
         // Metodo para retornar las tareas almacenadas en las colecciones.
         // IEnumerable<T> es implementada por List<T>, Dictionary<TKey, TValue>.Values y Queue<T>
-        // Cuando collection es un Dictionary, el parametro recibido debe ser Dictionary<TKey, TValue>.Values para obtener una collecion de los Values del diccionario
+        // Cuando collection es un Dictionary, el parametro recibido debe ser Dictionary<TKey,  y las TValue>.Values para obtener una collecion de los Values del diccionario
         public static string VerTareas<T>(IEnumerable<T> collection)
         {
             resultado = "";
@@ -74,5 +77,12 @@ namespace ProyectoGestorDeTareas
             }
             return resultado;
         }
-    }
+
+        public static Func<object, Tarea, string> functionAgregarTarea = AgregarTarea;
+        public static Func<object, Tarea, string> functionEliminarTarea = EliminarTarea;
+
+        public static List<TareaPendiente> GetListaTareasPendientes() => _listaTareasPendientes;
+        public static Dictionary<int, TareaRapida> GetListaTareasRapidas() => _listaTareasRapidas;
+        public static Queue<TareaUrgente> GetListaTareasUrgentes() => _listaTareasUrgentes;
+        }
 }
