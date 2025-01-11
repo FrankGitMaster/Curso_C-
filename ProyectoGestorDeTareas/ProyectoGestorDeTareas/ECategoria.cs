@@ -3,6 +3,11 @@
 
     enum ECategoria
     {
-        DEPORTE, TRABAJO, ESTUDIO, COMPRAS, HOBBIES, OTRO
+        DEPORTE = 1,
+        TRABAJO = 2,
+        ESTUDIO = 3,
+        COMPRAS = 4,
+        HOBBIES = 5,
+        OTRO = 6
     }
 }

@@ -3,6 +3,8 @@
     enum EPrioridad
     {
 
-        ALTA, MEDIA, BAJA
+        ALTA = 1,
+        MEDIA = 2,
+        BAJA = 3
     }
 }

@@ -18,16 +18,16 @@ namespace ProyectoGestorDeTareas
         const string msjErrorTareaEliminada = msjError + "Error al eliminar tarea: ";
         private static string resultado = "";
 
-        // Metodo que implementa un Func para apuntar a los metodos AgregarTarea(), 
+        // Metodo que implementa un Func para apuntar a los metodos CrearTarea(), 
         // collection es object porque esta clase hereda de manera directa a todas las colecciones utilizadas List<T>, Queue<T> y Dictionary<KeyValuePair<Tkey, TValue>> y asi se reutiliza el metodo para todas
         public static string FuncionesTarea<T>(Func<object, T, string> funcTarea, object collection, T tarea)
         {
             return funcTarea(collection, tarea);
         }
 
-        // Metodo para agregar tareas a colecciones
+        // Metodo para crear tareas a colecciones
         // collection es object porque esta clase hereda de manera directa a todas las colecciones utilizadas List<T>, Queue<T> y Dictionary<KeyValuePair<Tkey, TValue>> y asi se reutiliza el metodo para todas
-        public static string AgregarTarea(object collection, Tarea tarea)
+        public static string CrearTarea(object collection, Tarea tarea)
         {
             try
             {
@@ -78,7 +78,7 @@ namespace ProyectoGestorDeTareas
             return resultado;
         }
 
-        public static Func<object, Tarea, string> functionAgregarTarea = AgregarTarea;
+        public static Func<object, Tarea, string> functionAgregarTarea = CrearTarea;
         public static Func<object, Tarea, string> functionEliminarTarea = EliminarTarea;
 
         public static List<TareaPendiente> GetListaTareasPendientes() => _listaTareasPendientes;
