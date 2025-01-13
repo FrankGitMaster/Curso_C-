@@ -12,9 +12,14 @@
             Nota = nota;
         }
 
-        public override string VerDetallesNota()
+        public override string VerDetalles()
         {
-            return $"{FechaHoraCreacion.ToString("dddd dd 'de' MMMM 'de' yyyy hh:mm")}\nTítulo: {Titulo}\nNota: {Nota}\n";
+            return $"NOTARAPIDA:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\nTítulo: {Titulo}\nNota: {Nota}\n";
         }
-    }
+
+        public override string ToString()
+            {
+            return VerDetalles();
+            }
+        }
 }

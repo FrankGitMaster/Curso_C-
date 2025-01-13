@@ -2,16 +2,9 @@
 
 namespace GestorNotas
 {
-    abstract class NotaBase
+    abstract class NotaBase : Base
     {
 
-        public DateTime FechaHoraCreacion { get; set; } // Eliminar el set, la fecha se asigna el valor de Now al crear la instancia
-
-        public NotaBase()
-        {
-            FechaHoraCreacion = DateTime.Now;
-        }
-
-        public abstract string VerDetallesNota();
+        public abstract string VerDetalles();
     }
 }

@@ -1,20 +1,27 @@
 ﻿namespace GestorNotas
-{
-    class Nota : NotaBase
     {
+    class Nota : NotaBase
+        {
 
         public string Titulo { get; }
-        public string Estado { get; }
+        private bool _estado = false;
+        public string Estado
+            {
+            get
+                {
+                if (_estado) return "Completo";
+                else return "Incompleto";
+                }
+            }
 
-        public Nota(string titulo, string estado)
-        {
+        public Nota(string titulo)
+            {
             Titulo = titulo;
-            Estado = estado; // el estado se asigna por defecto a "Incompleto"
-        }
+            }
 
-        public override string VerDetallesNota()
-        {
-            return $" - {FechaHoraCreacion.ToString("dddd dd 'de' MMMM 'de' yyyy hh:mm")}\n - Título: {Titulo}\n - Estado: {Estado}\n";
+        public override string VerDetalles()
+            {
+            return $"{FechaHoraCreacion.ToString(txtFormatoFecha)}\n - Título: {Titulo}\n - Estado: {Estado}\n";
+            }
         }
     }
-}
