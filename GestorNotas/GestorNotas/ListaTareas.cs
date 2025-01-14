@@ -46,7 +46,7 @@ namespace GestorNotas
         public override string RetornarElementosLista()
             {
             string tareas = "";
-            _listaTareas.OrderBy(tarea => tarea.FechaHoraCreacion).ToList().ForEach(tarea => tareas += tarea.VerDetalles());
+            _listaTareas.OrderBy(tarea => tarea.FechaHoraCreacion).ToList().ForEach(tarea => tareas += tarea.ToString());
             Console.ResetColor();
             return tareas;
             }

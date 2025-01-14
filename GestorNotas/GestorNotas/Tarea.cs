@@ -26,7 +26,7 @@ namespace GestorNotas
             }
 
 
-        public override string VerDetalles()
+        public override string ToString()
             {
             return $"{FechaHoraCreacion.ToString(txtFormatoFecha)}\n - Nombre: {Nombre}\n - Descripción: {Descripcion}\n - Categoría: {Categoria}\n - Fecha vencimiento: {FechaHoraVencimiento.ToString(txtFormatoFecha)}\n";
             }

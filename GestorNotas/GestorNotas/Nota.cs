@@ -19,7 +19,7 @@
             Titulo = titulo;
             }
 
-        public override string VerDetalles()
+        public override string ToString()
             {
             return $"{FechaHoraCreacion.ToString(txtFormatoFecha)}\n - Título: {Titulo}\n - Estado: {Estado}\n";
             }

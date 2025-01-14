@@ -7,11 +7,12 @@ namespace GestorNotas
     class ListaNotas : ListaBase
         {
 
-        private static LinkedList<Nota> _listaNotas = new LinkedList<Nota>();
+        public LinkedList<Nota> _listaNotas;
         public string TituloListaNotas { get; }
         public ListaNotas(string tituloListaNotas)
             {
             TituloListaNotas = tituloListaNotas;
+            _listaNotas = new LinkedList<Nota>();
             }
 
         // Crear una nueva nota en la lista y retornar mensaje que informa si la nota ha sido agregada con exito
@@ -37,7 +38,7 @@ namespace GestorNotas
         public override string RetornarElementosLista()
             {
             string notas = "";
-            _listaNotas.OrderByDescending(nota => nota.Estado).ThenBy(nota => nota.FechaHoraCreacion).ToList().ForEach(nota => notas += nota.VerDetalles());
+            _listaNotas.OrderByDescending(nota => nota.Estado).ThenBy(nota => nota.FechaHoraCreacion).ToList().ForEach(nota => notas += nota.ToString());
             Console.ResetColor();
             return notas;
             }
@@ -45,17 +46,17 @@ namespace GestorNotas
         // Imprimir las notas de la lista, muestra mensaje indicando que la lista esta vacía en caso de que no hayan notas
         public override string VerElementosLista()
             {
-            return $"NOTAS:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\nTítulo: {TituloListaNotas}\n{(_listaNotas.Count > 0 ? RetornarElementosLista() : "No hay notas")}\n";
+            return $"LISTA NOTAS:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\nTítulo: {TituloListaNotas}\n{(_listaNotas.Count > 0 ? RetornarElementosLista() : "No hay notas")}\n";
             }
 
-        public static List<Nota> GetListaNotas()
+        public List<Nota> GetListaNotas()
             {
             return _listaNotas.ToList();
             }
 
         public override string ToString()
             {
-            return $"NOTAS:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\nTítulo: {TituloListaNotas}\n";
+            return $"LISTA NOTAS:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\nTítulo: {TituloListaNotas}\nNotas: {_listaNotas.Count}\n";
             }
         }
     }
