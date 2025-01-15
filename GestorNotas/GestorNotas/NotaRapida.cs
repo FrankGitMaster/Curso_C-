@@ -14,7 +14,7 @@
 
         public override string ToString()
             {
-            return $"NOTA RAPIDA:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\nTítulo: {Titulo}\nNota: {Nota}\n";
+            return $"NOTA RAPIDA:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\n - Título: {Titulo}\n - Nota: {Nota}\n";
             }
         }
     }

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace GestorNotas
     {
@@ -25,10 +27,17 @@ namespace GestorNotas
             FechaHoraVencimiento = DateTime.Parse(fechaHoraVencimiento);
             }
 
-
         public override string ToString()
             {
-            return $"{FechaHoraCreacion.ToString(txtFormatoFecha)}\n - Nombre: {Nombre}\n - Descripción: {Descripcion}\n - Categoría: {Categoria}\n - Fecha vencimiento: {FechaHoraVencimiento.ToString(txtFormatoFecha)}\n";
+            return $"TAREA:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\n - Nombre: {Nombre}\n - Descripción: {Descripcion}\n - Categoría: {Categoria}\n - Fecha vencimiento: {FechaHoraVencimiento.ToString(txtFormatoFecha)}\n";
+            }
+
+        public static string VerCategoriasTarea()
+            {
+            string listaCategorias = "";
+            List<string> categorias = Enum.GetNames(typeof(CategoriaTarea)).ToList();
+            for(int i = 0; i < categorias.Count; i++) listaCategorias += $"{i+1}. {categorias[i]}\n";
+            return listaCategorias;
             }
 
         public enum CategoriaTarea

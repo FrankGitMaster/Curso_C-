@@ -7,7 +7,7 @@ namespace GestorNotas
     class ListaNotas : ListaBase
         {
 
-        public LinkedList<Nota> _listaNotas;
+        private LinkedList<Nota> _listaNotas;
         public string TituloListaNotas { get; }
         public ListaNotas(string tituloListaNotas)
             {
@@ -46,7 +46,7 @@ namespace GestorNotas
         // Imprimir las notas de la lista, muestra mensaje indicando que la lista esta vacía en caso de que no hayan notas
         public override string VerElementosLista()
             {
-            return $"LISTA NOTAS:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\nTítulo: {TituloListaNotas}\n{(_listaNotas.Count > 0 ? RetornarElementosLista() : "No hay notas")}\n";
+            return $"{TituloListaNotas.ToUpper()}\n{(_listaNotas.Count > 0 ? RetornarElementosLista() : " - No hay notas")}\n";
             }
 
         public List<Nota> GetListaNotas()
@@ -56,7 +56,7 @@ namespace GestorNotas
 
         public override string ToString()
             {
-            return $"LISTA NOTAS:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\nTítulo: {TituloListaNotas}\nNotas: {_listaNotas.Count}\n";
+            return $"LISTA NOTAS:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\n - Título: {TituloListaNotas}\n - Notas: {_listaNotas.Count}\n";
             }
         }
     }

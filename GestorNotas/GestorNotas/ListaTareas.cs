@@ -7,9 +7,9 @@ namespace GestorNotas
     class ListaTareas : ListaBase
         {
 
-        private LinkedList<Tarea> _listaTareas = new LinkedList<Tarea>();
+        private static LinkedList<Tarea> _listaTareas = new LinkedList<Tarea>();
 
-        // Crear una nueva nota en la lista y retornar mensaje que informa si la nota ha sido agregada con exito
+        // Crear una nueva tarea en la lista y retornar mensaje que informa si la nota ha sido agregada con exito
         public string CrearTarea(string nombre, string descripcion, int categoria, string fechaHoraVencimiento)
             {
             string resultado = "";
