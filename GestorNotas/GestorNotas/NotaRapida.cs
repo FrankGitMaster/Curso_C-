@@ -1,6 +1,6 @@
 ﻿namespace GestorNotas
     {
-    class NotaRapida : NotaBase
+    class NotaRapida : Base
         {
 
         public string Titulo { get; }

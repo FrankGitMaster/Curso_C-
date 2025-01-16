@@ -4,30 +4,22 @@ using System.Linq;
 
 namespace GestorNotas
     {
-    class ListaTareas : ListaBase
+    class ListaTareas : Base
         {
 
         private static LinkedList<Tarea> _listaTareas = new LinkedList<Tarea>();
 
         // Crear una nueva tarea en la lista y retornar mensaje que informa si la nota ha sido agregada con exito
-        public string CrearTarea(string nombre, string descripcion, int categoria, string fechaHoraVencimiento)
+        public string CrearTarea(string nombre, string descripcion, Tarea.CategoriaTarea categoria, DateTime fechaHoraVencimiento)
             {
             string resultado = "";
             try
                 {
-                Tarea nuevaTarea = new Tarea(nombre, descripcion, (Tarea.CategoriaTarea)categoria, fechaHoraVencimiento);
-                if (categoria > Enum.GetValues(typeof(Tarea.CategoriaTarea)).Length || categoria <= 0)
-                    {
-                    resultado = "(x) Error al crear la tarea: La categoría ingresada no es válida";
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    }
-                else
-                    {
-                    // Agregar la tarea a la lista
-                    _listaTareas.AddLast(nuevaTarea);
-                    resultado = "(i) Tarea creada";
-                    Console.ForegroundColor = ConsoleColor.Green;
-                    }
+                Tarea nuevaTarea = new Tarea(nombre, descripcion, categoria, fechaHoraVencimiento);
+                // Agregar la tarea a la lista
+                _listaTareas.AddLast(nuevaTarea);
+                resultado = "(i) Tarea creada";
+                Console.ForegroundColor = ConsoleColor.Green;
                 }
             catch (FormatException ex)
                 {
@@ -43,7 +35,8 @@ namespace GestorNotas
             return resultado;
             }
 
-        public override string RetornarElementosLista()
+        // Recorrer la lista de tareas ordenando las tareas por FechaHoraCreacion. Retorna todas las tareas en un string
+        public static string VerTareas()
             {
             string tareas = "";
             _listaTareas.OrderBy(tarea => tarea.FechaHoraCreacion).ToList().ForEach(tarea => tareas += tarea.ToString());
@@ -51,9 +44,9 @@ namespace GestorNotas
             return tareas;
             }
 
-        public override string VerElementosLista()
+        public static List<Tarea> GetListaTareas()
             {
-            return $"TAREAS:\n{(_listaTareas.Count > 0 ? RetornarElementosLista() : "No hay tareas")}\n";
+            return _listaTareas.ToList();
             }
         }
     }

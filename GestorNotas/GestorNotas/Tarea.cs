@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace GestorNotas
     {
-    class Tarea : NotaBase
+    class Tarea : Base
         {
 
         public string Nombre { get; }
@@ -12,19 +12,12 @@ namespace GestorNotas
         public CategoriaTarea Categoria { get; }
         public DateTime FechaHoraVencimiento { get; }
 
-        public Tarea(string nombre, string descripcion, CategoriaTarea categoria, string fechaHoraVencimiento)
+        public Tarea(string nombre, string descripcion, CategoriaTarea categoria, DateTime fechaHoraVencimiento)
             {
             Nombre = nombre;
             Descripcion = descripcion;
             Categoria = categoria;
-
-            // Validar la fecha de vencimiento antes de parsear, se arroja una excepcion capturada por el método CrearTarea() si el valor ingresado es inválido
-            if (string.IsNullOrEmpty(fechaHoraVencimiento) || !DateTime.TryParse(fechaHoraVencimiento, out _))
-                {
-                throw new FormatException("La fecha de vencimiento ingresada no es válida");
-                }
-
-            FechaHoraVencimiento = DateTime.Parse(fechaHoraVencimiento);
+            FechaHoraVencimiento = fechaHoraVencimiento;
             }
 
         public override string ToString()
@@ -42,7 +35,6 @@ namespace GestorNotas
 
         public enum CategoriaTarea
             {
-
             Compras = 1,
             Deporte = 2,
             Hobbies = 3,

@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace GestorNotas
     {
-    class ListaNotas : ListaBase
+    class ListaNotas : Base
         {
 
         private LinkedList<Nota> _listaNotas;
@@ -13,6 +13,12 @@ namespace GestorNotas
             {
             TituloListaNotas = tituloListaNotas;
             _listaNotas = new LinkedList<Nota>();
+            }
+
+
+        public override string ToString()
+            {
+            return $"LISTA NOTAS:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\n - Título: {TituloListaNotas}\n - Notas: {_listaNotas.Count}\n";
             }
 
         // Crear una nueva nota en la lista y retornar mensaje que informa si la nota ha sido agregada con exito
@@ -34,8 +40,8 @@ namespace GestorNotas
             return resultado;
             }
 
-        // Recorrer la lista de notas y ordenarla por estado y luego por fecha de creación para retornar las notas como string
-        public override string RetornarElementosLista()
+        // Recorrer la lista de notas ordenando las notas por Esatdo y FechaHoraCreacion. Retorna todas las notas en un string
+        public string RetornarListasNotas()
             {
             string notas = "";
             _listaNotas.OrderByDescending(nota => nota.Estado).ThenBy(nota => nota.FechaHoraCreacion).ToList().ForEach(nota => notas += nota.ToString());
@@ -43,20 +49,15 @@ namespace GestorNotas
             return notas;
             }
 
-        // Imprimir las notas de la lista, muestra mensaje indicando que la lista esta vacía en caso de que no hayan notas
-        public override string VerElementosLista()
+        // Imprimir las notas creadas. Retorna string indicando que la lista de notas esta vacía en caso de que no hayan notas creadas en la lista consultada
+        public string VerNotas()
             {
-            return $"{TituloListaNotas.ToUpper()}\n{(_listaNotas.Count > 0 ? RetornarElementosLista() : " - No hay notas")}\n";
+            return $"{TituloListaNotas.ToUpper()}\n{RetornarListasNotas()}\n";
             }
 
         public List<Nota> GetListaNotas()
             {
             return _listaNotas.ToList();
-            }
-
-        public override string ToString()
-            {
-            return $"LISTA NOTAS:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\n - Título: {TituloListaNotas}\n - Notas: {_listaNotas.Count}\n";
             }
         }
     }

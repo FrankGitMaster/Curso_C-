@@ -2,11 +2,8 @@
 
 namespace GestorNotas
     {
-    abstract class ListaBase : Base
+    class ListaBase : Base
         {
 
-        public abstract string RetornarElementosLista();
-
-        public abstract string VerElementosLista();
         }
     }
