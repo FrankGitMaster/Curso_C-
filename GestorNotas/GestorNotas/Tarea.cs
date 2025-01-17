@@ -25,6 +25,7 @@ namespace GestorNotas
             return $"TAREA:\n{FechaHoraCreacion.ToString(txtFormatoFecha)}\n - Nombre: {Nombre}\n - Descripción: {Descripcion}\n - Categoría: {Categoria}\n - Fecha vencimiento: {FechaHoraVencimiento.ToString(txtFormatoFecha)}\n";
             }
 
+        // Recorrer los nombres del enum CategoriaTarea y retornarlos en un string
         public static string VerCategoriasTarea()
             {
             string listaCategorias = "";
