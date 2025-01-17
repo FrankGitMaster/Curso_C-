@@ -52,7 +52,7 @@ namespace GestorNotas
         // Imprimir las notas creadas. Retorna string indicando que la lista de notas esta vacía en caso de que no hayan notas creadas en la lista consultada
         public string VerNotas()
             {
-            return $"{TituloListaNotas.ToUpper()}\n{RetornarListasNotas()}\n";
+            return $"{TituloListaNotas.ToUpper()}\n{RetornarListasNotas()}";
             }
 
         public List<Nota> GetListaNotas()

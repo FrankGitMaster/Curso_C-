@@ -27,3 +27,18 @@ C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\GestorNotas\GestorNotas\obj\
 C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.pdb
 C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.genruntimeconfig.cache
 C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\GestorNotas\GestorNotas\obj\Debug\net8.0\ref\GestorNotas.dll
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\bin\Debug\net8.0\GestorNotas.exe
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\bin\Debug\net8.0\GestorNotas.deps.json
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\bin\Debug\net8.0\GestorNotas.runtimeconfig.json
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\bin\Debug\net8.0\GestorNotas.dll
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\bin\Debug\net8.0\GestorNotas.pdb
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.AssemblyInfo.cs
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.sourcelink.json
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.dll
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\obj\Debug\net8.0\refint\GestorNotas.dll
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.pdb
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.genruntimeconfig.cache
+C:\Users\frank\source\repos\Curso_C-\GestorNotas\GestorNotas\obj\Debug\net8.0\ref\GestorNotas.dll
