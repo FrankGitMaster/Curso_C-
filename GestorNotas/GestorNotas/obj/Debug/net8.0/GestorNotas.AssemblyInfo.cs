@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestorNotas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b481530eaad11ca356890375c039713b9fd9564")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c093f614d851a6d6560107f53a6ad69d4d46716")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestorNotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestorNotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -198,12 +198,13 @@ namespace GestorNotas
                 if (!int.TryParse(Console.ReadLine(), out int notaSeleccionada) || notaSeleccionada > coleccionListaNotas.Count || notaSeleccionada <= 0)
                     {
                     ColorMensaje(2, "Ingrese un índice válido de la nota");
-                    break;
+                    continue;
                     }
                 else
                     {
                     ColorMensaje(1, coleccionListaNotas[indiceLista - 1].EliminarNota(listaNotas[notaSeleccionada - 1]));
                     listaNotas.Remove(listaNotas[notaSeleccionada - 1]);
+                    break;
                     }
                 } while (true);
         };
