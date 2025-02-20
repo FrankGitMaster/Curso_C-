@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConectarBD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6e77dc1108511b0d5185850e76bcbf3b616390c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5608968ec7d683ae94a661b5338c9765b7fad4b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConectarBD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConectarBD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
