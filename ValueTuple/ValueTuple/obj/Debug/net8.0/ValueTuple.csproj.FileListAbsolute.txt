@@ -1,0 +1,15 @@
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\bin\Debug\net8.0\ValueTuple.exe
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\bin\Debug\net8.0\ValueTuple.deps.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\bin\Debug\net8.0\ValueTuple.runtimeconfig.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\bin\Debug\net8.0\ValueTuple.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\bin\Debug\net8.0\ValueTuple.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\obj\Debug\net8.0\ValueTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\obj\Debug\net8.0\ValueTuple.AssemblyInfoInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\obj\Debug\net8.0\ValueTuple.AssemblyInfo.cs
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\obj\Debug\net8.0\ValueTuple.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\obj\Debug\net8.0\ValueTuple.sourcelink.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\obj\Debug\net8.0\ValueTuple.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\obj\Debug\net8.0\refint\ValueTuple.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\obj\Debug\net8.0\ValueTuple.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\obj\Debug\net8.0\ValueTuple.genruntimeconfig.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\ValueTuple\ValueTuple\obj\Debug\net8.0\ref\ValueTuple.dll

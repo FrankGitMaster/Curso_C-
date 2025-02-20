@@ -1,39 +1,59 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.Design;
 using System.Linq;
 
 namespace GestorNotas
+{
+    class ListaTareas : ListaBase
     {
-    class ListaTareas : Base
+
+        private LinkedList<Tarea> _listaTareas = new LinkedList<Tarea>();
+
+        // Crear una nueva nota en la lista y retornar mensaje que informa si la nota ha sido agregada con exito
+        public string CrearTarea(string nombre, string descripcion, int categoria, string fechaHoraVencimiento)
         {
-
-        private static LinkedList<Tarea> _listaTareas = new LinkedList<Tarea>();
-
-        // Crear una nueva tarea en la lista y retornar un mensaje que informa si la nota ha sido agregada con éxito
-        public static string CrearTarea(Tarea nuevaTarea)
+            string resultado = "";
+            try
             {
-            _listaTareas.AddLast(nuevaTarea);
-            return "Tarea creada";
+                Tarea nuevaTarea = new Tarea(nombre, descripcion, (Tarea.CategoriaTarea)categoria, fechaHoraVencimiento);
+                if (categoria > Enum.GetValues(typeof(Tarea.CategoriaTarea)).Length || categoria <= 0)
+                {
+                    resultado = "(x) Error al crear la tarea: La categoría ingresada no es válida";
+                    Console.ForegroundColor = ConsoleColor.Red;
+                }
+                else
+                {
+                    // Agregar la tarea a la lista
+                    _listaTareas.AddLast(nuevaTarea);
+                    resultado = "(i) Tarea creada";
+                    Console.ForegroundColor = ConsoleColor.Green;
+                }
             }
-
-        // Recorrer la lista de tareas ordenando las tareas por FechaHoraCreacion. Retorna todas las tareas en un string
-        public static string VerTareas()
+            catch (FormatException ex)
             {
+                // Aquí capturamos la excepción de formato lanzada en el constructor de Tarea
+                resultado = $"(x) Error al crear la tarea: {ex.Message}";
+                Console.ForegroundColor = ConsoleColor.Red;
+            }
+            catch (Exception ex)
+            {
+                resultado = $"(x) Error inesperado: {ex.Message} {ex.StackTrace}";
+                Console.ForegroundColor = ConsoleColor.Red;
+            }
+            return resultado;
+        }
+
+        public override string RetornarElementosLista()
+        {
             string tareas = "";
             _listaTareas.OrderBy(tarea => tarea.FechaHoraCreacion).ToList().ForEach(tarea => tareas += tarea.ToString());
+            Console.ResetColor();
             return tareas;
-            }
+        }
 
-        public static string EliminarTarea(Tarea tarea)
-            {
-            _listaTareas.Remove(tarea);
-            return "Tarea eliminada";
-            }
-
-        public static List<Tarea> GetListaTareas()
-            {
-            return _listaTareas.ToList();
-            }
+        public override string VerElementosLista()
+        {
+            return $"TAREAS:\n{(_listaTareas.Count > 0 ? RetornarElementosLista() : "No hay tareas")}\n";
         }
     }
+}

@@ -1,0 +1,15 @@
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.AssemblyInfo.cs
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.sourcelink.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\bin\Debug\net8.0\AsyncAwait.exe
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\bin\Debug\net8.0\AsyncAwait.deps.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\bin\Debug\net8.0\AsyncAwait.runtimeconfig.json
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\bin\Debug\net8.0\AsyncAwait.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\bin\Debug\net8.0\AsyncAwait.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\obj\Debug\net8.0\refint\AsyncAwait.dll
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.pdb
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.genruntimeconfig.cache
+C:\Users\Soporte Aplicaciones\source\repos\Curso_C#\AsyncAwait\AsyncAwait\obj\Debug\net8.0\ref\AsyncAwait.dll
