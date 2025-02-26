@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConectarBD")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConectarBD_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+849c265f98ffc7a326815935c0395c83bb58079c")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConectarBD")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConectarBD")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConectarBD_2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConectarBD_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
